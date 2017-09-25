@@ -6,3 +6,4 @@ London
 Birmingham
 Manchester
 Edinburgh
+Cardiff
