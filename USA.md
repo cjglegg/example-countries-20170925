@@ -8,4 +8,3 @@ Dallas
 Minneapolis
 San Francisco
 Charleston
-Toronto
