@@ -8,3 +8,6 @@ Dallas
 Minneapolis
 San Francisco
 Charleston
+Ricardson TX
+Baltomore
+Washington
