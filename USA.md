@@ -7,3 +7,4 @@ Richmond
 Dallas
 Minneapolis
 San Francisco
+Charleston
